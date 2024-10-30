@@ -26,8 +26,10 @@ let object = { name: "Alice" , age:25 }
 
 // declearing a variable
 let num1; //defualts to undefined
+
 // assigning a variable
 num1 = 1
+
 // declaring & assignment 1 line
 let num2 = 2
 
